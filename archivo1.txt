@@ -1,0 +1,2 @@
+chanchito feliz
+estamos aprendiendo a usar git bash
